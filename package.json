@@ -1,0 +1,32 @@
+{
+  "name": "teflon-bot",
+  "version": "1.8.2",
+  "description": "Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/Trapigtrogen/teflon-bot.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "JS",
+    "Teflon"
+  ],
+  "author": "Samuli Piipponen",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://gitlab.com/Trapigtrogen/teflon-bot/issues"
+  },
+  "homepage": "https://gitlab.com/Trapigtrogen/teflon-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "node-wol": "^0.1.1",
+    "npm": "^6.9.0",
+    "opusscript": "0.0.6",
+    "request": "^2.88.0"
+  }
+}
